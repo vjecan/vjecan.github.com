@@ -34,7 +34,7 @@
         <h3 class="hello">Hi, my name is</h3>
         <h1 class="vlad">Vlad Jecan</h1>
         <h2 class="info">I am a Web Developer</h2>
-        <p class="description">I have built this portfolio over the weekend using HTML, CSS and light JavaScript, and moved it to Angular (first-time use). Excited about the possibility of learning from experienced developers as I am starting to think in components rather than divs.</p>
+
         <a href="mailto:vjecan@gmail.com"><button class="btn-main">Get in Touch</button></a>
     </div>
     
