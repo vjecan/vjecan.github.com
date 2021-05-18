@@ -45110,7 +45110,7 @@ r=new Y.ac(C.q,1,C.k)
 q=K.bQ(10)
 p=P.D(38,39,54,1)
 o=t.p
-q=T.b3(H.a([M.V(m,T.Y(H.a([new B.qx(m),T.Y(H.a([new T.B(C.lJ,M.V(m,T.b3(H.a([U.YW(Z.bi(C.mb,m,14),L.W("Home",B.ai(P.D(229,225,221,1),14),m,m),new X.X4(n)),U.YW(Z.bi(C.ma,m,14),L.W("Portfolio",B.ai(P.D(229,225,221,1),14),m,m),new X.X5(n)),U.YW(Z.bi(C.m9,m,14),L.W("Experience",B.ai(P.D(229,225,221,1),14),m,m),new X.X6(n)),U.YW(Z.bi(C.m8,m,14),L.W("Education",B.ai(P.D(229,225,221,1),14),m,m),new X.X7(n))],o),C.K,C.e),m,new S.ak(p,m,new F.aa(r,r,r,r),q,m,m,C.l),m,m,m,380),m)],o),C.o,C.j,C.e)],o),C.o,C.j,C.e),m,m,m,m,m,470)],o),C.bd,C.e)
+q=T.b3(H.a([M.V(m,T.Y(H.a([new B.qx(m),T.Y(H.a([new T.B(C.lJ,M.V(m,T.b3(H.a([U.YW(Z.bi(C.mb,m,14),L.W("Home",B.ai(P.D(229,225,221,1),13),m,m),new X.X4(n)),U.YW(Z.bi(C.ma,m,14),L.W("Portfolio",B.ai(P.D(229,225,221,1),13),m,m),new X.X5(n)),U.YW(Z.bi(C.m9,m,14),L.W("Experience",B.ai(P.D(229,225,221,1),13),m,m),new X.X6(n)),U.YW(Z.bi(C.m8,m,13),L.W("Education",B.ai(P.D(229,225,221,1),13),m,m),new X.X7(n))],o),C.K,C.e),m,new S.ak(p,m,new F.aa(r,r,r,r),q,m,m,C.l),m,m,m,380),m)],o),C.o,C.j,C.e)],o),C.o,C.j,C.e),m,m,m,m,m,470)],o),C.bd,C.e)
 r=n.ghl()
 r.sm(0,r.a)
 n.ghl().ck(0)
