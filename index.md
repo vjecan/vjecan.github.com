@@ -33,7 +33,8 @@
     <div class="intro">
         <h3 class="hello">Hi, my name is</h3>
         <h1 class="vlad">Vlad Jecan</h1>
-        <p class="description">Scholar, Developer, IT Project Manager</p>
+        <h2 class="info">I am a Web Developer</h2>
+
         <a href="mailto:vjecan@gmail.com"><button class="btn-main">Get in Touch</button></a>
     </div>
     
