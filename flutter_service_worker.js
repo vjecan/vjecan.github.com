@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "85af1db3ea75f4da16c77cad439d11e8",
+  "assets/AssetManifest.json": "527a9339d91aacc526c7ed6f457520b5",
 "assets/assets/about-img.png": "c8cab7ff36b3027397b3ca168b8fec71",
 "assets/assets/acareertraining.jpg": "9ffcfe62ed742d00cbea610a3a8fcb2f",
 "assets/assets/becomingbetter.jpg": "ef5cf8172a4e0a95062e0da99ecc7daf",
@@ -12,6 +12,7 @@ const RESOURCES = {
 "assets/assets/fspac.png": "238d971fb8d9e86d1931591e65fd7012",
 "assets/assets/halnick.jpg": "ba7f17cf76cce913e9b79527d2f1bbd8",
 "assets/assets/jasudo.jpg": "5d8a88ec95292915e3697eb757973cd8",
+"assets/assets/jasudomobile.png": "ff5b2ebcb9279518841ec4fd623dadd9",
 "assets/assets/mtpleasant.jpg": "2f09a6c99989e17ca8b1f44cbd2e6b48",
 "assets/assets/pastorbaker.jpg": "3d391431daaa15e46b3bf22e15e7a380",
 "assets/assets/pb.jpg": "1c5f496ecef944e8f62fe66ca4738358",
@@ -55,9 +56,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "005f8172890bc59bfed144c6a6d5396c",
-"/": "005f8172890bc59bfed144c6a6d5396c",
-"main.dart.js": "401117b345a6a7e583f804f1b802b748",
+"index.html": "7ce5cd3f21f0d4fe62f6e616b6d49313",
+"/": "7ce5cd3f21f0d4fe62f6e616b6d49313",
+"main.dart.js": "014e83201dcc05aeb83da90b1864f354",
 "manifest.json": "4b4fe0b77f1196f475325a42ff7a5f9f",
 "version.json": "7ec5eaae1e97347e6bdcff3a90db26d9"
 };
