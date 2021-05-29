@@ -60976,7 +60976,7 @@ al:function(){return new A.N_(C.q)}}
 A.N_.prototype={
 aE:function(){this.b4()},
 H:function(a,b){var s=null
-return M.kB(E.nO(C.z,!0,L.a7("Stoicism - Philosophy as a Way of Life",s,s,B.aT(C.k,20,s,2),s,s)),s,V.HB(u._,new N.jr(T.jf(),T.jf()),!0))}}
+return M.kB(E.nO(C.z,!0,L.a7("Stoicism - Philosophy as a Way of Life",s,s,B.aT(C.k,20,s,2),s,s)),s,V.HB("https://medium.com/stoicism-philosophy-as-a-way-of-life",new N.jr(T.jf(),T.jf()),!0))}}
 K.hi.prototype={
 al:function(){return new K.N0(C.q)}}
 K.N0.prototype={
