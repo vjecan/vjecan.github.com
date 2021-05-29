@@ -60559,7 +60559,7 @@ n=F.agE(C.y,12)
 m=P.ak(204,30,31,44)
 return new T.av(C.e3,M.a9(k,T.b3(H.a([E.aiM(T.aD(H.a([g,s,r,q,T.b3(H.a([new V.AX(C.y,new X.dE(i,C.o),M.a9(k,T.hf(C.mv,H.a([R.ka(!1,!0,M.a9(k,L.a7("Stoicism - Philosophy as a Way of Life",k,k,B.aT(C.k,23,C.bf,k),k,k),C.i,m,k,k,k,k,k,k,k,k,k),k,!0,k,k,k,k,k,k,k,new Y.a4R(),k,new Y.a4S(),k,k,k)],p),C.aJ),C.i,k,k,new S.ac(k,h,n,o,k,k,k,C.n),k,250,k,new V.ab(10,10,10,10),k,k,300),k)],p),C.m,C.p,C.l)],p),C.m,C.p,C.l),C.t),T.aD(H.a([Z.lL(C.pl,C.x,k),T.az(k,k,30),Z.lL(C.po,C.x,k)],p),C.m,C.X,C.l)],p),C.m,C.p,C.l),C.i,k,k,k,k,350,k,k,k,k,k),k)}}
 Y.a4K.prototype={
-$0:function(){$.fE().$1$0(t.r).a.gad().dZ("stoic",t.X)},
+$0:function(){$.fE().$1$0(t.r).a.gad().dZ("stoicismtoday",t.X)},
 $S:0}
 Y.a4J.prototype={
 $1:function(a){var s=this.a
@@ -60976,7 +60976,7 @@ al:function(){return new A.N_(C.q)}}
 A.N_.prototype={
 aE:function(){this.b4()},
 H:function(a,b){var s=null
-return M.kB(E.nO(C.z,!0,L.a7("Stoicism - Philosophy as a Way of Life",s,s,B.aT(C.k,20,s,2),s,s)),s,V.HB("https://cors-anywhere.herokuapp.com/https://www.amazon.com/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255",new N.jr(T.jf(),T.jf()),!0))}}
+return M.kB(E.nO(C.z,!0,L.a7("Stoicism - Philosophy as a Way of Life",s,s,B.aT(C.k,20,s,2),s,s)),s,V.HB(u._,new N.jr(T.jf(),T.jf()),!0))}}
 K.hi.prototype={
 al:function(){return new K.N0(C.q)}}
 K.N0.prototype={
