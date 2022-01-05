@@ -66880,7 +66880,7 @@ q.ML(0,!1)
 A.by(c.f,"_speed")
 c.f=q
 r=q}p=t.p
-s=A.a4(b,A.aK(A.a([s,A.a0Q(B.T,A.eG("circlesmall.png",1.2),r),new A.vu(b)],p),B.k,B.l,B.i),B.j,b,b,new A.b4(b,b,b,b,b,B.fU,B.z),b,b,b,b,b,b,b)
+s=A.a4(b,A.aK(A.a([s,A.a0Q(B.T,A.eG("assets/circlesmall.png",1.2),r),new A.vu(b)],p),B.k,B.l,B.i),B.j,b,b,new A.b4(b,b,b,b,b,B.fU,B.z),b,b,b,b,b,b,b)
 o=a1-160
 n=A.v(B.d.ao(127.5),236,239,241)
 n=A.a4(b,new A.xK(c.r,c.gkT(),!0,B.n,B.n,b),B.j,b,b,new A.b4(B.q,b,new A.bQ(B.t,B.t,new A.au(n,0.4,B.v),B.t),b,b,b,B.z),b,67,b,b,b,b,o)
