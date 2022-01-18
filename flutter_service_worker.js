@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c5c6964bcd0c8ec7a93caad54de25477",
+  "assets/AssetManifest.json": "1cbc5913258e6ad55572fbdd3adb87e0",
+"assets/assets/bgmain.png": "0dc6269d6ddf99255fa08a69782867a9",
 "assets/assets/circle.png": "cf590fa8374e418ad30287019fc17af2",
 "assets/assets/circlesmall.png": "2746022c2aec427ea4b335a24a8fb0b5",
 "assets/assets/edain.jpg": "0f1e1d9eebe20d164f4e375953d0dfda",
@@ -16,6 +17,7 @@ const RESOURCES = {
 "assets/assets/jasudo.png": "1d387791c9b4cdbee899f65b0f065d4b",
 "assets/assets/jasudoweb.jpg": "6790d535931b2347d04f8a2c18acccfc",
 "assets/assets/knowledgevault.png": "1264fcaa6d7b31f02484d69d80ad1d3f",
+"assets/assets/llamaMotion.gif": "5842e47a2be3ec9ec4df8e001d897313",
 "assets/assets/mp.jpg": "29b85f7ecf4e1335c4ee6215885379bd",
 "assets/assets/pbm.jpg": "62cb31e6f75c8aec08af6db135855156",
 "assets/assets/prismaanalytics.jpg": "4e301b2f21cc2da6c3f54c7e992272f4",
@@ -52,9 +54,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "99ac9b62b35d062cfe6706575e8267c3",
-"/": "99ac9b62b35d062cfe6706575e8267c3",
-"main.dart.js": "623b7b34ba1f3b94a6af83e809b12ef8",
+"index.html": "64ddac341a63e6a3b411f038d301f1e6",
+"/": "64ddac341a63e6a3b411f038d301f1e6",
+"main.dart.js": "c00e45ca9c39a7500527d5a431686621",
 "manifest.json": "e17e168698e15c241a155b65b9f1df13",
 "version.json": "bfbeb1f0f7a4ed60b90a68d758e5d40e"
 };
