@@ -48,7 +48,6 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "b179ba02b7a9f61ebc108f82c5a1ecdb",
 "canvaskit/profiling/canvaskit.js": "3783918f48ef691e230156c251169480",
 "canvaskit/profiling/canvaskit.wasm": "6d1b0fc1ec88c3110db88caa3393c580",
-"favicon.ico": "2f3354cec4ee1361d50540b53f684859",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/android-icon-144x144.png": "282bc5ad8da5565400a9f6b570b4423f",
 "icons/android-icon-192x192.png": "cf7181d885f613ca7fde0f2c73d5f195",
@@ -77,9 +76,9 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "8462c92f5f0e0c3ef6e166055d972eeb",
 "icons/ms-icon-310x310.png": "cabfbdf5aa3fb8ccbfd04a54decfe082",
 "icons/ms-icon-70x70.png": "6fe66ab217aead543170c039463dc225",
-"index.html": "66b910e430814f8387829cd496dcfe73",
-"/": "66b910e430814f8387829cd496dcfe73",
-"main.dart.js": "f33434d1ee85db23ab075156511d3a62",
+"index.html": "c0a20efc883ee9f0752794843d421129",
+"/": "c0a20efc883ee9f0752794843d421129",
+"main.dart.js": "c7908715081dd40490d919311d10e9ab",
 "manifest.json": "e17e168698e15c241a155b65b9f1df13",
 "version.json": "bfbeb1f0f7a4ed60b90a68d758e5d40e"
 };
